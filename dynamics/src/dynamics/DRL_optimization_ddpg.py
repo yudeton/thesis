@@ -42,7 +42,7 @@ class Config:
         self.device = torch.device(
             "cuda" if torch.cuda.is_available() else "cpu")  # 检测GPUgjgjlkhfsf风刀霜的撒发十
         self.seed = 10 # 随机种子，置0则不设置随机种子
-        self.train_eps = 300 # 训练的回合数
+        self.train_eps = 100000 # 训练的回合数
         self.test_eps = 20 # 测试的回合数
         ################################################################################
         
