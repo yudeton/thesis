@@ -101,7 +101,8 @@ tensorboard --logdir ~/Documents/drl_robotics_arm_ws/src/Optimization-of-robotic
 tensorboard --logdir=/home/iclab/thesis_ws/Optimization-of-robotic-arm-design_dynamixel/dynamics/src/dynamics/runs/Apr02_13-15-21_ws2030
 最後為資料夾位置
 
-
-
 # notebook
 tensorboard --logdir ~/Documents/drl_robotics_arm_ws/src/Optimization-of-robotic-arm-design_dynamixel/dynamics/src/dynamics/runs/
+
+# 進入進行中的docker container
+docker exec -it --user root ($CONTAINER ID) /bin/bash
