@@ -1,0 +1,5 @@
+2024-02-20 11:57:46.652 [error] /usr/share/code/bin/code-tunnel: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.29' not found (required by /usr/share/code/bin/code-tunnel)
+
+2024-02-20 11:57:46.652 [error] /usr/share/code/bin/code-tunnel: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found (required by /usr/share/code/bin/code-tunnel)
+
+2024-02-20 11:57:46.652 [error] Could not parse status output: "Running tunnel CLI\nstatus Spawning: /usr/share/code/bin/code-tunnel tunnel status\nstatus exit(287): + 1"

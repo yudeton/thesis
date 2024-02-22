@@ -1,0 +1,18 @@
+2024-02-20 12:11:01.553 [info] Extension host with pid 1586 started
+2024-02-20 12:11:01.582 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-20 12:11:01.602 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-20 12:11:01.606 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-20 12:11:01.622 [info] Eager extensions activated
+2024-02-20 12:11:01.638 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-20 12:11:01.640 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-20 12:11:13.321 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-20 12:11:13.326 [info] Extension host with pid 1586 exiting with code 0
+2024-02-20 12:11:14.304 [info] Extension host with pid 1631 started
+2024-02-20 12:11:14.304 [info] Skipping acquiring lock for /drl_robotics_arm_ws/src/thesis/dynamics/src/dynamics/User/workspaceStorage/66f11e38baccc1a13e1fa389e4021dc2.
+2024-02-20 12:11:14.325 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-20 12:11:14.333 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-20 12:11:14.347 [info] Eager extensions activated
+2024-02-20 12:11:14.421 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-20 12:11:14.423 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-20 12:11:17.802 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-20 12:43:22.088 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

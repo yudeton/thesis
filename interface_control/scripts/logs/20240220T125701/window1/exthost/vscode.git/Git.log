@@ -1,0 +1,42 @@
+2024-02-20 12:57:16.593 [info] Log level: Info
+2024-02-20 12:57:16.593 [info] Validating found git in: "git"
+2024-02-20 12:57:16.593 [info] Using git "2.17.1" from "git"
+2024-02-20 12:57:16.593 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-20 12:57:16.593 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-20 12:57:16.604 [info] Open repository: /drl_robotics_arm_ws
+2024-02-20 12:57:16.617 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-20 12:57:16.618 [info] > git config --get commit.template [6ms]
+2024-02-20 12:57:16.630 [info] No remotes found in the git config file.
+2024-02-20 12:57:16.630 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-20 12:57:16.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-20 12:57:16.640 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-20 12:57:16.723 [info] > git status -z -uall [83ms]
+2024-02-20 12:57:16.800 [info] > git config --get commit.template [3ms]
+2024-02-20 12:57:16.830 [info] No remotes found in the git config file.
+2024-02-20 12:57:16.980 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [150ms]
+2024-02-20 12:57:17.069 [info] > git status -z -uall [83ms]
+2024-02-20 12:57:17.127 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-20 12:57:17.742 [info] > git show --textconv :.catkin_workspace [21ms]
+2024-02-20 12:57:17.748 [info] > git ls-files --stage -- /drl_robotics_arm_ws/.catkin_workspace [10ms]
+2024-02-20 12:57:18.401 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-20 12:57:19.166 [info] > git show --textconv :src/CMakeLists.txt [18ms]
+2024-02-20 12:57:19.170 [info] > git ls-files --stage -- /drl_robotics_arm_ws/src/CMakeLists.txt [6ms]
+2024-02-20 12:57:19.968 [info] > git check-ignore -v -z --stdin [6ms]
+2024-02-20 12:57:21.673 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-20 12:57:22.567 [info] > git check-ignore -v -z --stdin [31ms]
+2024-02-20 12:57:23.360 [info] > git show --textconv :src/thesis/interface_control/launch/arm_control_gui.launch [5ms]
+2024-02-20 12:57:23.361 [info] > git ls-files --stage -- /drl_robotics_arm_ws/src/thesis/interface_control/launch/arm_control_gui.launch [1ms]
+2024-02-20 12:57:24.142 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-20 12:57:26.831 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-20 12:57:30.093 [info] > git config --get commit.template [3ms]
+2024-02-20 12:57:30.106 [info] No remotes found in the git config file.
+2024-02-20 12:57:30.106 [info] > git show --textconv :src/thesis/interface_control/scripts/languagepacks.json [9ms]
+2024-02-20 12:57:30.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2024-02-20 12:57:30.139 [info] > git ls-files --stage -- /drl_robotics_arm_ws/src/thesis/interface_control/scripts/languagepacks.json [38ms]
+2024-02-20 12:57:30.195 [info] > git status -z -uall [56ms]
+2024-02-20 12:57:30.558 [info] > git show --textconv :src/thesis/interface_control/scripts/interface_GUI.py [7ms]
+2024-02-20 12:57:30.560 [info] > git ls-files --stage -- /drl_robotics_arm_ws/src/thesis/interface_control/scripts/interface_GUI.py [3ms]
+2024-02-20 12:57:35.248 [info] No remotes found in the git config file.
+2024-02-20 12:57:35.251 [info] > git config --get commit.template [20ms]
+2024-02-20 12:57:35.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-20 12:57:35.400 [info] > git status -z -uall [134ms]

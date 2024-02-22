@@ -1,0 +1,12 @@
+2024-02-20 11:57:45.283 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-20 11:57:45.338 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/directory-to-open","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2024-02-20 11:57:45.924 [info] Started local extension host with pid 270.
+2024-02-20 11:57:45.994 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-02-20 11:57:46.326 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-02-20 11:57:48.927 [info] [perf] Render performance baseline is 96ms
+2024-02-20 11:58:02.629 [warning] [backup tracker] suspended, ignoring register event file:///directory-to-open 
+2024-02-20 11:58:02.636 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/directory-to-open 
+2024-02-20 11:58:02.643 [warning] [backup tracker] suspended, ignoring unregister event untitled:/directory-to-open 
+2024-02-20 11:58:03.060 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-20 11:58:03.254 [info] Started local extension host with pid 342.
+2024-02-20 11:58:05.950 [info] [perf] Render performance baseline is 31ms
